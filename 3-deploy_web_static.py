@@ -12,7 +12,7 @@ from os.path import exists
 
 env.hosts = ['35.237.166.125', '54.167.61.201']  # <IP web-01>, <IP web-02>
 # ^ All remote commands must be executed on your both web servers
-# (using env.hosts = ['<IP web-01>', 'IP web-02'] variable in your script)
+# (using env.hosts = ['<100.26.175.175>', '100.25.192.188'] variable in your script)
 
 
 def do_pack():
